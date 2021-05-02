@@ -104,16 +104,6 @@ p {
 }
 
 
-#li-horizontal {
+.navigation-links li {
     display:inline;
-  }
-
-  li {
-
-  }
-
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
   }
